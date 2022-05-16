@@ -17,6 +17,7 @@
  Rename config_example.py to config.py.
  In the token variable add your discord bot token.
  In the prefix field change it to what ever you like.
+ In the owner_id field add your discord id.
  Now run.
  ```
  python bot.py
